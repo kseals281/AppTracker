@@ -45,6 +45,10 @@
                     android:singleLine="true" />
 
             </android.support.design.widget.TextInputLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorAccent"/>
 
             <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
@@ -64,6 +68,11 @@
                     android:singleLine="true" />
 
             </android.support.design.widget.TextInputLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorAccent"/>
 
             <Button
                 android:id="@+id/email_sign_in_button"
