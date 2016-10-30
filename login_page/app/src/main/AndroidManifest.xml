@@ -15,7 +15,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".LoginActivity"
-            android:label="@string/app_name"> <!--Put app name here-->
+            android:label="@string/app_name"> <!-- Put app name here -->
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,11 +25,12 @@
         </activity>
         <activity
             android:name=".Homepage"
-            android:label="@string/homepage_name"></activity><!--Whatever is put as the label becomes the title at the top-->
+            android:label="@string/homepage_name" /> <!-- Whatever is put as the label becomes the title at the top -->
 
         <activity
             android:name=".SignUpActivity"
-            android:label="@string/title_activity_sign_up"></activity>
+            android:label="@string/title_activity_sign_up" />
+        <activity android:name=".SchoolInfo"></activity>
     </application>
 
 </manifest>
