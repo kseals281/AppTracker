@@ -40,6 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/fab_margin"
         app:srcCompat="@android:drawable/ic_input_add"
+        android:tint="@color/colorText"
         app:layout_anchorGravity="center_vertical|right"
         app:fabSize="normal"
         android:layout_gravity="bottom|right" />
