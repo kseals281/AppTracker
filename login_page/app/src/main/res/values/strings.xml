@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">login_page</string>
+    <string name="app_name">APP NAME</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -13,7 +13,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
-    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <!-- Strings related to the homepage -->
+    <string name="homepage_name">Homepage</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
